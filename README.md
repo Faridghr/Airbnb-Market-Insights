@@ -18,7 +18,7 @@ The project includes a series of interactive Tableau dashboards covering:
 - **Amenities Impact on Reviews**: Stacked bar charts showing the amenities that lead to higher guest satisfaction.
 - **Occupancy Rates**: Heatmaps highlighting areas with consistent bookings.
 
-Visit the **[Tableau Dashboard]**(https://public.tableau.com/app/profile/farid.ghorbani/viz/shared/FDN762Z7C) to explore the visualizations and insights.
+Visit the [Tableau Dashboard](https://public.tableau.com/app/profile/farid.ghorbani/viz/shared/FDN762Z7C) to explore the visualizations and insights.
 
 ## Key Questions and Insights
 
