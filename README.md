@@ -12,12 +12,13 @@ The primary objectives of this project are:
 
 ## Tableau Visualizations
 The project includes a series of interactive Tableau dashboards covering:
-- Revenue by Neighborhood: Heatmaps showing the most profitable locations.
-- Seasonal Revenue Trends: Line charts illustrating when demand is highest.
-- Popular Property Types and Bedroom Counts: Bar charts analyzing market preferences.
-- Amenities Impact on Reviews: Stacked bar charts showing the amenities that lead to higher guest satisfaction.
-- Occupancy Rates: Heatmaps highlighting areas with consistent bookings.
-Visit the [Tableau Dashboard](https://public.tableau.com/app/profile/farid.ghorbani/viz/shared/FDN762Z7C) to explore the visualizations and insights.
+- **Revenue by Neighborhood**: Heatmaps showing the most profitable locations.
+- **Seasonal Revenue Trends**: Line charts illustrating when demand is highest.
+- **Popular Property Types and Bedroom Counts**: Bar charts analyzing market preferences.
+- **Amenities Impact on Reviews**: Stacked bar charts showing the amenities that lead to higher guest satisfaction.
+- **Occupancy Rates**: Heatmaps highlighting areas with consistent bookings.
+
+Visit the **[Tableau Dashboard]**(https://public.tableau.com/app/profile/farid.ghorbani/viz/shared/FDN762Z7C) to explore the visualizations and insights.
 
 ## Key Questions and Insights
 
@@ -82,10 +83,10 @@ Based on the insights from this analysis:
 The dataset used in this analysis includes a wide range of attributes such as property details, host information, pricing, availability, and guest reviews.
 
 ### Key Attributes:
-- Location Data: City, neighborhood, latitude, longitude
-- Property Data: Type, room count, price, amenities
-- Host Data: Response rate, listings count, reviews
-- Calendar Data: Availability, pricing, booking trends
+- **Location Data**: City, neighborhood, latitude, longitude
+- **Property Data**: Type, room count, price, amenities
+- **Host Data**: Response rate, listings count, reviews
+- **Calendar Data**: Availability, pricing, booking trends
 
 ## Acknowledgments
 This project uses Airbnb data sourced from [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle).
