@@ -26,44 +26,44 @@ Visit the [Tableau Dashboard](https://public.tableau.com/app/profile/farid.ghorb
 - **Visualization:** A heatmap of Avg Price by Zip code.
 - **Insight:** High-revenue neighborhoods were identified as prime investment locations.
 
-![Avg Price by Zip code](png/AvgPriceperZipcode.jpg)
+![Avg Price by Zip code](png/AvgPriceperZipcode.JPG)
 
 ### 2. What Is the Best Time to List the Home?
 - **Analysis:** Seasonal trends were analyzed to find peak booking periods.
 - **Visualization:** Line chart showing revenue trends throughout the year.
 - **Insight:** The analysis revealed that bookings peak during the summer season and at the end of the year, indicating the optimal listing periods.
 
-![Peak Booking Periods](png/RevenueForYear.jpg)
+![Peak Booking Periods](png/RevenueForYear.JPG)
 
 ### 3. What Is the Most Common Number of Bedrooms for Listings?
 - **Analysis:** The distribution of bedroom counts was assessed to understand market demand.
 - **Visualization:** Bar chart showing the number of listings by bedroom count.
 - **Insight:** Properties with 1 bedrooms are the most popular, making them a safe investment choice.
 
-![Number of Rent per Bedrooms](png/NumberOfRentPerBedrooms.jpg)
+![Number of Rent per Bedrooms](png/NumberOfRentPerBedrooms.JPG)
 
-![Avg Price per Bedrooms](png/AvgPricePerBedrooms.jpg)
+![Avg Price per Bedrooms](png/AvgPricePerBedrooms.JPG)
 
 ### 4. What Is the Relationship Between Price and Review Scores?
 - **Analysis:** A scatter plot was used to assess the connection between listing price and guest satisfaction.
 - **Visualization:** Scatter plot with price on the x-axis and review score on the y-axis.
 - **Insight:** The analysis indicated that listings priced between $60 and $150 have the highest review scores, guiding effective pricing strategies.
 
-![Relationship Between Price and Review Scores](png/PriceandReviewScores.jpg)
+![Relationship Between Price and Review Scores](png/PriceandReviewScores.JPG)
 
 ### 5. How Does the Number of Reviews Impact Booking Trends?
 - **Analysis:** The relationship between the number of reviews and price was explored.
 - **Visualization:** Bubble chart showing reviews against booking trends.
 - **Insight:** There is no significant correlation between the number of reviews and price.
 
-![Number of Reviews per Price](png/ReviewsPerPrice.jpg)
+![Number of Reviews per Price](png/ReviewsPerPrice.JPG)
 
 ### 6. How Do Listing Prices Change Over Time?
 - **Analysis:** Price trends over different periods were analyzed to determine the most profitable pricing strategy.
 - **Visualization:** Time series line chart of average price over time.
 - **Insight:** Pricing peaks during the summer season, suggesting that a dynamic pricing strategy could maximize income.
 
-![Avg Listing Price per Time](png/AvgListingPricePerTime.jpg)
+![Avg Listing Price per Time](png/AvgListingPricePerTime.JPG)
 
 ## Conclusions and Recommendations
 Based on the insights from this analysis:
